@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [4.2.1]
+### Security
+- updated 7 dependencies with security warnings:
+  before:
+  ```
+  26 vulnerabilities (10 low, 12 moderate, 4 high)
+  ```
+  after:
+  ```
+  19 vulnerabilities (8 low, 8 moderate, 3 high)
+  ```
 
 ## [4.2.0]
 ### Added
